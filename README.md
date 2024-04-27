@@ -1,1 +1,1 @@
-# HTML-CSS-EXCERCISES
+Created some HTML and CSS exercises
