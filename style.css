@@ -1,0 +1,81 @@
+.para{
+   border:solid red 10px;
+   padding:20px;
+}
+.number{
+    background-color: black;
+    color:white;
+    padding-left: 30px;
+}
+.box{
+    height:100px;
+    width:100px;
+    background-color: black;
+    border-right: dotted yellow 10px;
+    border-top: solid green 10px;
+    border-left:solid violet 10px;
+    border-bottom: solid red 10px;
+
+}
+.card{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+    padding:30px;
+    width:200px;
+    margin-top: 20px;
+}
+
+.red{
+    margin-top: 20px;
+    width:100px;
+    height:100px;
+    display:inline-block;
+    background-color: red;
+    
+}
+.black{
+    width:100px;
+    height:100px;
+    display:inline-block;
+    background-color: black;
+    margin-top: 20px;
+}
+.yellow{
+    width:100px;
+    height:100px;
+    display:inline-block;
+    background-color: yellow;
+    margin-top: 20px;
+}
+.numbers{
+    width:50px;
+    height:50px;
+    display:inline-block;
+    background-color: orange;
+    padding:20px;
+    
+}
+.numbers p{
+    text-align: center;
+}
+.ooty{
+    width:200px;
+    background-color: black;
+    color:white;
+    padding:20px;
+    margin-top: 20px;
+    
+}
+.button{
+    background-color: transparent;
+    color:white;
+    border:none;
+    border:solid greenyellow 2px;
+    padding:3px;
+}
+
+.button:hover{
+    background-color: greenyellow;
+    color:black;
+}
